@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Miz
+- 👋 Hi, I’m Ahmad Dekmak
 - 👀 I’m interested in React Development
 - 🌱 I’m currently learning Gatsby
 - 💞️ I’m looking to collaborate on big projects
